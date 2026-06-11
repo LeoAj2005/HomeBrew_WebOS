@@ -4,13 +4,13 @@
       "id": "moe.rukamori.archivetune.tv",
       "title": "ArchiveTune TV",
       "type": "web",
-      "iconUri": "https://raw.githubusercontent.com/LeoAj2005/ArchiveTune-WebOS/main/icon.png",
+      "iconUri": "https://raw.githubusercontent.com/LeoAj2005/HomeBrew_WebOS/main/icon.png",
       "manifest": {
         "version": "1.0.0",
-        "appDescription": "ArchiveTune TV",
-        "sourceUrl": "https://github.com/LeoAj2005/ArchiveTune-WebOS",
+        "appDescription": "ArchiveTune TV for LG webOS",
+        "sourceUrl": "https://github.com/LeoAj2005/HomeBrew_WebOS",
         "rootRequired": false,
-        "ipkUrl": "https://github.com/LeoAj2005/ArchiveTune-WebOS/releases/download/v0.1/Tune.ipk",
+        "ipkUrl": "https://github.com/LeoAj2005/HomeBrew_WebOS/releases/download/v1.0.0/Tune.ipk",
         "ipkHash": {
           "sha256": "ff1b06d5cf78b11d6435ffe41bcefc421b0572f02c58c119b809870a78267a81"
         }
