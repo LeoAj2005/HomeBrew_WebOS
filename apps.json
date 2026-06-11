@@ -1,0 +1,20 @@
+{
+  "packages": [
+    {
+      "id": "moe.rukamori.archivetune.tv",
+      "title": "ArchiveTune TV",
+      "type": "web",
+      "iconUri": "https://raw.githubusercontent.com/LeoAj2005/ArchiveTune-WebOS/main/icon.png",
+      "manifest": {
+        "version": "1.0.0",
+        "appDescription": "ArchiveTune TV",
+        "sourceUrl": "https://github.com/LeoAj2005/ArchiveTune-WebOS",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/LeoAj2005/ArchiveTune-WebOS/releases/download/v0.1/Tune.ipk",
+        "ipkHash": {
+          "sha256": "ff1b06d5cf78b11d6435ffe41bcefc421b0572f02c58c119b809870a78267a81"
+        }
+      }
+    }
+  ]
+}
